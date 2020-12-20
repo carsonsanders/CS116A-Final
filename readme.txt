@@ -1,0 +1,1 @@
+To run the program, run 116AFinal_debug.exe located in the bin folder
